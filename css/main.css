@@ -1,0 +1,196 @@
+.presentation{
+	height: 60px;
+	background-color: white;
+
+}
+.school{
+	color:;
+	font-family:Neoteric-Bold;
+	font-size: 30px;
+	padding-top: 15px;
+}
+nav{
+	padding-top: 15px;
+}
+nav a{
+	text-decoration: none;
+	font-family:Latolight;
+	font-size: 20px;
+}
+.danza{
+	margin-top: 20px;
+	background: url('../img/dance_1.jpg') no-repeat;
+	height: 400px;
+	width: 100%;
+	background-size: cover;
+	background-position: 0% -30%;
+
+}
+.abajo{
+	padding-top:10px;
+}
+.danza h1{
+	padding-top: 70px;
+	font-family: Neoteric-Bold;
+	font-size: 80px;
+ 	margin-bottom: 10px;
+}
+.studio{
+	color:#C3C6C5;
+}
+.danza p{
+	font-family: Latolight;
+	font-size: 18px;
+	color:#CCD5D6;
+}
+.inscribete{
+	background-color:#030F1D;
+	height: 30px; 
+}
+.horizontal p{
+ 	font-family: 36px;
+ 	font-family: Latolight;
+ 	width: 60%;
+ 	margin: auto;
+
+}
+.description{
+	background:url('../img/textura_2.jpg');
+	height: 300px;
+	width:100%;
+}
+.trayectoria{
+	padding-top: 40px;
+	font-family:Latolight;
+	font-size:24px;
+}
+.decorar1{
+	width:150px;
+	height: 100px;
+}
+.oferta {
+	height: 40px;
+	width: 20%;
+	background-color: #192951;
+	margin: auto;
+	font-family: Latolight;
+	font-size: 22px;
+	color:white;
+	padding-top: 5px;
+	border-radius: 8px;
+}
+.fondo{
+	background-color: #393C41;
+	height: 280px;
+	width: 100%;
+}
+.general{
+	background: url('../img/instructor_4.jpg') no-repeat;
+	height: 280px;
+	background-size:100%;
+	border-style: solid;
+	border-width:2px 1px 2px 0;
+	border-color:#192951;
+}
+.profesional{
+	background: url('../img/profesor_9.jpg') no-repeat;
+	height: 280px;
+	border-width:2px 0 2px 1px;
+	border-style: solid;
+	border-color: #192951;
+	background-size:100%;
+}
+.instructores{
+	background-color:#192951;
+	height: 80px;
+	margin: auto;
+	color:white;
+	font-family: Latolight;
+	left:33%;
+    position: relative;
+    top:-80px;
+    font-size:20px;
+    padding-top: 25px;
+}
+.poema{
+	background: url('../img/textura_2.jpg');
+	height: 300px;
+	width: 100%;
+	font-family:Neoteric-Bold;
+	font-style: italic;
+	font-size:50px;
+	margin: auto;
+}
+.mapa{
+	background-color: #192951;
+	height: 400px;
+}
+.contenido{
+	color:white;
+	font-family:Latolight;
+	padding-top: 30px;
+	font-size: 16px;
+}
+.visitar{
+	font-size: 24px;
+	font-family: Latolight;
+	font-weight: bold;
+	padding-top:20px;
+}
+.skype{
+	color:#1967E7;
+}
+iframe{
+	padding-top: 40px;
+}
+#contacto{
+	padding-top:20px;
+	background: url('../img/shoes_1.jpg') no-repeat;
+	height: 480px;
+	background-position: 100%;
+	width: 100%;
+
+}
+.nombre{
+	background: url("http://rexkirby.com/kirbyandson/images/name.svg") no-repeat;
+	background-position:0 10%;
+	background-size:5%;
+	padding-left:3%;
+	height: 32px;
+	border:2px solid #DAD7D7;
+}
+input{
+	margin:5px;
+}
+.email{
+	background: url("http://rexkirby.com/kirbyandson/images/email.svg") no-repeat ;
+ 	height: 35px;
+ 	background-position:0% 50%;
+	background-size:5%;
+	padding-left: 3%;
+	border:2px solid #DAD7D7;
+}
+.mensaje{
+	background: url("http://rexkirby.com/kirbyandson/images/comment.svg") no-repeat;
+	height: 100px;
+	background-position:0 10%;
+	background-size:5%;
+	padding-left: 3%;
+    vertical-align: top;
+    padding-bottom: 50px;
+    border: 2px solid #DAD7D7;
+}
+.enviar{
+	background-color: #192951;
+	height: 50px;
+	border-radius:10px;
+	border: 1px solid #192951;
+	font-size: 28px;
+}
+.finish{
+	background-color: #192951;
+	height:60px;
+	font-size: 18px;
+	padding-top: 30px;
+}
+

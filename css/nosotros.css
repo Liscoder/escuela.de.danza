@@ -1,0 +1,185 @@
+.presentation{
+	height: 60px;
+	background-color: white;
+
+}
+.school{
+	color:;
+	font-family:Neoteric-Bold;
+	font-size: 30px;
+	padding-top: 15px;
+}
+nav{
+	padding-top: 15px;
+}
+nav a{
+	text-decoration: none;
+	font-family:Latolight;
+	font-size: 20px;
+}
+.jovenes{
+	background: url('../img/dance_7.jpg') no-repeat;
+	height: 400px;
+	width: 100%;
+	background-size: 140%;
+	margin-top:60px;
+	background-position: 0% 40%;
+
+}
+.abajo{
+	padding-top:10px;
+}
+.danza h1{
+	padding-top: 70px;
+	font-family: Neoteric-Bold;
+	font-size: 80px;
+ 	margin-bottom: 10px;
+}
+.words{
+	margin:auto;
+	background: rgba(0,0,0,.5);
+	height: 200px;
+	width:40%;
+	margin-left:30%;
+	margin-top: 7%;
+}
+.sobre{
+	font-size: 28px;
+	font-family:DolceVita;
+	padding-top: 30px;
+}
+.jovenes p{
+	font-size: 16px;
+	padding-top: 20px;
+}
+.margin{
+	margin-left:12%;
+}
+.pilar{
+	border-bottom-width: 60%;
+	border-bottom: 1px solid black;
+	padding-top: 60px;
+	padding-bottom:40px;
+}
+.pilares{
+	background: url('../img/cubes.png');
+	height: 320px;
+	width: 100%;
+}
+.poema{
+	background: url('../img/cubes.png');
+	height: 300px;
+	width: 100%;
+	font-family:Neoteric-Bold;
+	font-style: italic;
+	font-size:50px;
+	margin: auto;
+	padding-top: 100px;
+}
+.separate{
+	margin:5px;
+}
+.analisis{
+	padding-top: 20px;
+	width: 90%;
+}
+.one{
+	background:url('../img/profesor_4.jpg');
+}
+.two{
+	background: url('../img/profesor_14.jpg');
+}
+.three{
+	background:url('../img/profesor_1.jpg');
+}
+.four{
+	background: url('../img/profesor_10.jpg')
+}
+.five{
+	background: url('../img/profesor_11.jpg')
+}
+.six{
+	background: url('../img/profesor_12.jpg')
+}
+.seven{
+	background: url('../img/profesor_9.jpg')
+}
+.eight{
+	background: url('../img/profesor_15.jpg')
+}
+.photo{
+	height:220px;
+	width: 100%;
+	background-size:100%;
+	margin-bottom: 10px;
+}
+.cuatro{
+	padding-top: 80px;
+
+}
+.fondo{
+	padding-top: 80px;
+	margin-bottom: 50px;
+}
+.instruction{
+	font-size: 24px;
+	font-family: LatoHeavy;
+}
+.photo h3{
+	position:relative;
+	margin-top: 50px;
+	margin-bottom:50px;
+}
+#contacto{
+	padding-top:20px;
+	background: url('../img/shoes_1.jpg') no-repeat;
+	height: 480px;
+	background-position: 100%;
+	width: 100%;
+
+}
+.nombre{
+	background: url("http://rexkirby.com/kirbyandson/images/name.svg") no-repeat;
+	background-position:0 10%;
+	background-size:5%;
+	padding-left:3%;
+	height: 32px;
+	border:2px solid #DAD7D7;
+
+
+}
+input{
+	margin:5px;
+}
+.email{
+	background: url("http://rexkirby.com/kirbyandson/images/email.svg") no-repeat ;
+ 	height: 35px;
+ 	background-position:0% 50%;
+	background-size:5%;
+	padding-left: 3%;
+	border:2px solid #DAD7D7;
+}
+.mensaje{
+	background: url("http://rexkirby.com/kirbyandson/images/comment.svg") no-repeat;
+	height: 100px;
+	background-position:0 10%;
+	background-size:5%;
+	padding-left: 3%;
+    vertical-align: top;
+    padding-bottom: 50px;
+    border: 2px solid #DAD7D7;
+}
+.enviar{
+	background-color: #192951;
+	height: 50px;
+	border-radius:10px;
+	border: 1px solid #192951;
+	font-size: 28px;
+}
+.finish{
+	background-color: #192951;
+	height:60px;
+	font-size: 18px;
+	padding-top: 30px;
+}
+
